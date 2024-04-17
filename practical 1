@@ -1,0 +1,7 @@
+#include<iosteream.h>
+#include<conio.h>
+void main()
+{
+cout<<"i am ngpp student";
+return 0;
+}
